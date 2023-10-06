@@ -1,7 +1,9 @@
 <h1 align="center"> Hi, I'm Katarzyna </h1>
 
+<a target="_blank" align="center">
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/katarzyna-czech-phd-901a6925a/">LinkedIn</a> & <a href="mailto:katarzyna.anna.czech@gmail.com">Email</a><br/>
 </a>
+
 <a href="https://github.com/kateczech">
 <img width=450 height=170 align="center" alt="kateczech" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kateczech&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&count_private=false" />
 </a><br/>
